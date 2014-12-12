@@ -1,0 +1,264 @@
+<!DOCTYPE html> 
+<html lang="zh-CN"> 
+<head>
+	<meta charset="utf-8">
+	<title>Hicoder工作室</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<!-- Bootstrap --> 
+	<link href="bootstrapv2/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="bootstrapv2/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+	<link href="Font-Awesome-3.2.1/css/font-awesome.min.css" rel="stylesheet" media="screen">
+
+	
+	<link href="css/main.css" rel="stylesheet" media="screen">
+	<script src="js/jquery.js"></script> 
+	<script src="bootstrapv2/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.carousel').carousel()
+
+		});
+		
+	</script>
+</head> 
+<body> 
+	<header class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+		        	<span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		        </button>
+		        <a class="brand" href="#">Hicoder工作室</a>
+		        <div class="nav-collapse collapse">
+		            <ul class="nav pull-right">
+		              <li class="active"><a href="#">Home</a></li>
+		              <li><a href="#services">About</a></li>
+		              <li><a href="#bottom">Contact</a></li>
+		            </ul>
+		        </div><!--/.nav-collapse -->
+			</div>
+		</div>
+	</header>
+
+	<section id="slide-show">
+		<div id="myCarousel" class="carousel slide">
+		    <ol class="carousel-indicators">
+			    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			    <li data-target="#myCarousel" data-slide-to="1"></li>
+			    <li data-target="#myCarousel" data-slide-to="2"></li>
+		    </ol>
+		    <!-- Carousel items -->
+		    <div class="carousel-inner">
+			    <div class="active item" id="item1">
+			    	<div class="container">
+			    		<img class="pull-right" src="images/original.png" style="height:520px"/>
+			    		<h2>我们在做什么</h2>
+			    		<h3 class="gap">关注我们的Github库</h3>
+			    		<a class="btn btn-large btn-transparent">Go</a>
+			    		
+			    	</div>
+			    </div>
+			    <div class="item" id="item2">
+			    	<div class="container">
+			    		<img class="pull-right" src="images/img1.png" style="height:520px"/>
+			    		<h2>将您的创意变为现实</h2>
+			    		<h3 class="gap">加入我们，融入团队，体现自我价值</h3>
+			    		<a class="btn btn-large btn-transparent">立即加入</a>
+			    	</div>
+			    </div>
+			    <div class="item" id="item3">
+			    	<div class="container">
+			    		<img class="pull-right" src="images/img2.png" style="height:520px"/>
+			    		<h2>免费公共服务</h2>
+			    		<h3 class="gap">免费VPN，免费域名，免费主机</h3>
+			    		<a class="btn btn-large btn-transparent">立即申请</a>
+			    	</div>
+			    	
+			    </div>
+		    </div>
+		    <!-- Carousel nav -->
+		    <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+		    <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+	    </div>
+	</section>
+
+	<section id="services">
+
+		<div class="container">
+			<div class="center">
+				<h3>我们的关注</h3>
+			<p class="lead">Hicoder工作室 致力于计算机相关领域研究</p>
+			</div>
+			
+			<ul class="thumbnails">
+				<li class="span4">
+					<div class="thumbnail">
+						<h3>Web应用开发</h3>
+						<p>GreenCMS是一款开源的运行在典型的LAMP 平台或者 PAAS 云平台的新一代跨平台高性能内容管理系统。<br/>
+	简化企业级应用开发和敏捷WEB应用开发.</p>
+					</div>
+				</li>
+
+				<li class="span4">
+					<div class="thumbnail">
+						<h3>OpenStack与KVM相关研究</h3>
+						<p>OpenStack是一个云平台管理的项目.<br/>
+	KVM是一个开源的系统虚拟化模块.</p>
+					</div>
+				</li>
+
+				<li class="span4">
+					<div class="thumbnail">
+						<h3>UI设计与网页制作</h3>
+						<p>专业的UI设计，简单大方.<br/>
+	采用先进的HTML5与Jquery设计制作响应式布局的Web页面.</p>
+					</div>
+				</li>
+
+				<li class="span4">
+					<div class="thumbnail">
+						<h3>移动应用开发</h3>
+						<p>致力于移动应用的开发.<br/>
+	面向Android与WindowsPhone平台</p>
+					</div>
+				</li>
+
+				<li class="span4">
+					<div class="thumbnail">
+						<h3>微信公共平台开发</h3>
+						<p>基于GreenWeixin的微信公共平台开发.</p>
+					</div>
+				</li>
+
+				<li class="span4">
+					<div class="thumbnail">
+						<h3>统一身份认证授权系统</h3>
+						<p>GreenOAUth是一款基于SSH框架的授权认证系统. 通过GreenOAUth 统一身份认证授权系统帮助企业简化管理系统的权限管理。</p>
+					</div>
+				</li>
+
+	    	</ul>
+		</div>
+	</section>
+
+	<section id="recent-works">
+
+	<div class="container">
+		<div class="center">
+			<h3>最近成果</h3>
+			<p class="lead">仅展示最近上线的成果</p>
+		</div>
+		<ul class="thumbnails">
+			<li class="span3">
+				<div class="thumbnail">
+					<img src="images/elb.png">
+					<h5>E老宝-专为中老年人设计的安卓手机桌面</h5>
+				</div>
+
+			</li>
+			<li class="span3">
+				<div class="thumbnail">
+					<img src="images/greencms.png">
+					<h5>GreenCMS V3 新一代开源内容管理系统</h5>
+				</div>
+
+			</li>
+			<li class="span3">
+				<div class="thumbnail">
+					<img src="images/bookshare.png">
+					<h5>书享网 基于现代互联网和无线传感技术的个人书籍管理与社区图书分享平台</h5>
+				</div>
+
+			</li>
+			<li class="span3">
+				<div class="thumbnail">
+					<img src="images/xgw.png">
+					<h5>学工网 南京工业大学信息学院学工网</h5>
+				</div>
+
+			</li>
+		</ul>
+	</div>
+	</section>
+	<section id="bottom">
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span4">
+					<h4>联系方式</h4>
+					<ul class="address unstyled">
+						<li><i class="icon-home"></i><strong>Adress:</strong>河北秦皇岛</li>
+						<li><i class="icon-envelope"></i><strong>Email:</strong>webmaster@hicoder.org</li>
+						<li><i class="icon-globe"></i><strong>Website:</strong>www.hicoder.org</li>
+						<li><i class="icon-phone"></i><strong>Sns:</strong>Sina Weibo</li>
+					</ul>
+				</div>
+
+				<div class="span4" id="tweets">
+					<h4>友情链接</h4>
+					<ul class="arrow">
+						<li><i class="icon-angle-right"></i><a href="http://www.baidu.com">百度</a></li>
+						<li><i class="icon-angle-right"></i><a href="http://www.google.com">谷歌</a></li>
+						<li><i class="icon-angle-right"></i><a href="http://www.sina.com">新浪</a></li>
+						<li><i class="icon-angle-right"></i><a href="http://www.v-info.cn">秦皇岛微讯</a></li>
+					</ul>
+				</div>
+
+				<div id="archives" class="span4">
+                <h4>最近文章</h4>
+
+                <div>
+                    <ul class="arrow">
+                    	<li><i class="icon-angle-right"></i><a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=173" title="南京GDG走进南工校园">
+				                南京GDG走进南工校园 </a>
+				            </li>
+				            <li><i class="icon-angle-right"></i>
+				            <a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=172" title="佛祖保佑 永无BUG.txt">
+				                佛祖保佑 永无BUG.txt </a>
+				            </li>
+				            <li><i class="icon-angle-right"></i>
+				            <a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=171" title="隐私协议">
+				                隐私协议 </a>
+				            </li>
+				            <li><i class="icon-angle-right"></i>
+				            <a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=170" title="数据库的最简单实现">
+				                数据库的最简单实现 </a>
+				            </li>
+				            <li><i class="icon-angle-right"></i>
+				            <a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=169" title="[图]约合￥839 Nokia X2详细规格和真机上手">
+				                [图]约合￥839 Nokia X2详细 </a></li>
+				                <li><i class="icon-angle-right"></i>
+				            <a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=168" title="IntelliJ IDEA 13 结合 Tomcat 7">
+				                IntelliJ IDEA 13 结合  </a></li>
+				                <li><i class="icon-angle-right"></i>
+				            <a href="/index.php?m=home&amp;c=post&amp;a=single&amp;info=167" title="成员介绍 : 陶灵灵">
+				                成员介绍 : 陶灵灵 </a></li>
+            		</ul>
+                </div>
+            </div>
+
+			</div>
+		</div>
+	</section>
+	<footer id="footer">
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span5">
+					2003-2015 © Copyright<a href="http://www.hicoder.org" title="Hicoder工作室">Hicoder工作室</a> . All Rights Reserved.
+				</div>
+				<div class="span6">
+                <ul class="social pull-right">
+                    <li><a href="https://www.facebook.com/pages/Green-Studio/504741962894684"><i class="icon-facebook"></i></a></li>
+                    <li><a href="https://plus.google.com/communities/115185941639829177683"><i class="icon-google-plus"></i></a></li>
+                    <li><a href="https://github.com/GreenCMS/"><i class="icon-github-alt"></i></a></li>
+                </ul>
+            </div>
+			</div>
+		</div>
+
+	</footer>
+
+</body> 
+</html>
+

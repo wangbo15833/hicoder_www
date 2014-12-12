@@ -1,0 +1,173 @@
+body{
+	font-size:12px;
+}
+
+body h1, body h2, body h3, body h4, body .created {
+    font-family: "Microsoft Yahei";
+    font-weight: normal;
+}
+
+header.navbar{
+	margin-bottom: 0px;
+}
+
+.center{
+	text-align: center;
+}
+
+#services{
+	background: none repeat scroll 0% 0% #252525;
+	color: #999;
+}
+
+#bottom{
+	background: none repeat scroll 0% 0% #232323;
+	color: #6F6F6F;
+}
+
+#bottom a {
+    color: #6F6F6F;
+}
+
+
+
+#bottom ul.address > li{
+	position: relative;
+	padding-left: 20px;
+}
+
+#bottom ul.address > li > i {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+}
+
+#archives ul.arrow >li,#tweets ul.arrow >li{
+	position: relative;
+	padding-left: 20px;
+}
+
+#archives ul.arrow > li > i,#tweets ul.arrow > li > i {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+}
+
+
+
+#recent-works{
+	background: none repeat scroll 0% 0% #148142;
+	color: #FFF;
+}
+
+
+#services .thumbnail{
+	min-height: 130px;
+	border:none;
+}
+
+
+#recent-works .thumbnail{
+	border:none;
+}
+
+#item1{
+	background: none repeat scroll 0% 0% #9B59B6;
+}
+	
+
+
+
+#item2{
+	background: none repeat scroll 0% 0% #3498DB;
+
+}
+
+#item3{
+	background: none repeat scroll 0% 0% #E67E22;
+}
+
+
+ul.unstyled{
+	margin-left: 0px;
+	list-style: outside none none;
+}
+
+#footer{
+	background: none repeat scroll 0% 0% #333;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #666;
+}
+
+#footer a{
+	color: #666;
+}
+
+body > section{
+	padding:50px 0px
+}
+
+
+body > section#slide-show{
+	padding:0px;
+	margin-top:41px;
+}
+
+
+ul.arrow{
+	list-style: outside none none;
+	padding: 0px;
+	margin: 0px;
+}
+
+ul.social {
+    list-style: outside none none;
+    margin: 10px 0px 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+ul.social > li {
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+ul.social > li > a {
+    font-size: 24px;
+}
+
+#slide-show .item h2{
+	padding: 170px 0px 0px;
+margin: 0px;
+position: relative;
+font-size: 60px;
+line-height: normal;
+z-index: 100;
+
+}
+
+
+#slide-show .item h2,#slide-show .item h3{
+	color: #FFF;
+}
+
+
+.btn.btn-transparent {
+    border: 3px solid #FFF;
+    background: none repeat scroll 0% 0% transparent;
+    color: #FFF;
+}
+
+.btn.btn-transparent:hover {
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.gap{
+	margin-bottom: 50px;
+}
+
+
+#services h1, #services h2, #services h3, #services h4, #services h5, #services h6 {
+    color: #FFF;
+}
