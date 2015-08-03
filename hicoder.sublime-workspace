@@ -1,0 +1,735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Hicoder",
+				"Hicoder程序猿"
+			],
+			[
+				"by",
+				"bycontent"
+			],
+			[
+				"bazi",
+				"bazi_meihua〔function〕"
+			],
+			[
+				"cham",
+				"$cha_miao〔variable〕"
+			],
+			[
+				"yin_",
+				"$yin_wuxing〔variable〕"
+			],
+			[
+				"cai_",
+				"cai_wuxing"
+			],
+			[
+				"guansha",
+				"guansha_wuxing"
+			],
+			[
+				"shi_ganzhi",
+				"$shishen_ganzhi〔variable〕"
+			],
+			[
+				"riyuan",
+				"$riyuan_wuxing〔variable〕"
+			],
+			[
+				"riy",
+				"$riyuan_wuxing〔variable〕"
+			],
+			[
+				"cai",
+				"cai_wuxing"
+			],
+			[
+				"guanxi_gan",
+				"guanxi_gan_hehua"
+			],
+			[
+				"fenxi_dizhi",
+				"fenxi_dizhi_a〔function〕"
+			],
+			[
+				"guanxi_",
+				"guanxi_rigan_shishen〔variable〕"
+			],
+			[
+				"ex",
+				"$exclude〔variable〕"
+			],
+			[
+				"get",
+				"getLastSql〔function〕"
+			],
+			[
+				"che",
+				"checkUser〔function〕"
+			],
+			[
+				"err",
+				"error_reporting〔function〕"
+			],
+			[
+				"End",
+				"$EndLenth〔variable〕"
+			],
+			[
+				"tiangan",
+				"tianganzhuyi〔variable〕"
+			],
+			[
+				"p",
+				"parents〔function〕"
+			],
+			[
+				"re",
+				"removeClass〔function〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"shishen",
+				"shishen_jianhua〔function〕"
+			],
+			[
+				"ri",
+				"rigan_shengwangmujue〔variable〕"
+			],
+			[
+				"di",
+				"dizhizhuyi〔variable〕"
+			],
+			[
+				"tian",
+				"tianganzhuyi〔variable〕"
+			],
+			[
+				"liu",
+				"liunian〔variable〕"
+			],
+			[
+				"liunia",
+				"liunian_fuzhu"
+			],
+			[
+				"chu",
+				"$chushengshijian〔variable〕"
+			],
+			[
+				"jieqi",
+				"jieqi_shijian"
+			],
+			[
+				"day",
+				"day_ganzhi"
+			],
+			[
+				"month",
+				"month_ganzhi"
+			],
+			[
+				"year",
+				"year_ganzhi"
+			],
+			[
+				"riqi",
+				"$riqi_end〔variable〕"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"liun",
+				"liunian_fuzhu"
+			],
+			[
+				"arr_key",
+				"array_key_exists〔function〕"
+			],
+			[
+				"haha",
+				"$haha_f〔variable〕"
+			],
+			[
+				"guanxi_wu",
+				"guanxi_wuxing_shishen〔variable〕"
+			],
+			[
+				"guanxi_n",
+				"guanxi_nian_yue"
+			],
+			[
+				"bi",
+				"$biao_minggong〔variable〕"
+			],
+			[
+				"tiang",
+				"tianganzhuyi〔variable〕"
+			],
+			[
+				"dizhi",
+				"dizhizhuyi"
+			],
+			[
+				"qi",
+				"qiongtongbaojian〔function〕"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"guanxi_di",
+				"guanxi_jijie_dizhi〔variable〕"
+			],
+			[
+				"guanxi_zhi",
+				"guanxi_zhi_he"
+			],
+			[
+				"tou",
+				"tougan"
+			],
+			[
+				"guanxi_r",
+				"guanxi_rigan_shishen〔variable〕"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lu",
+				"lushen_array"
+			],
+			[
+				"guanxi",
+				"guanxi_12gong"
+			],
+			[
+				"sanh",
+				"guanxi_sanhui〔variable〕"
+			],
+			[
+				"戌",
+				"戌酉申"
+			],
+			[
+				"酉",
+				"酉戌申"
+			],
+			[
+				"申",
+				"申戌酉"
+			],
+			[
+				"未",
+				"未巳午"
+			],
+			[
+				"午",
+				"午未巳"
+			],
+			[
+				"巳",
+				"巳未午"
+			],
+			[
+				"辰",
+				"辰卯寅"
+			],
+			[
+				"卯",
+				"卯辰寅"
+			],
+			[
+				"寅",
+				"寅辰卯"
+			],
+			[
+				"丑",
+				"丑子亥"
+			],
+			[
+				"子",
+				"子丑亥"
+			],
+			[
+				"backgrou",
+				"background-color: 〔property〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"evernote",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"ctrl",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp =sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp ="
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/www_git/6yao/6yao.sublime-project",
+		"/E/www_git/hicoder_www/index.html",
+		"/E/www_git/hicoder_www/bootstrapv2/js/bootstrap.min.js",
+		"/E/www_git/hicoder_www/ftpsync.settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/E/www_git/6yao/APP/Lib/Action/Home/TestAction.class.php",
+		"/E/www_git/ThinkCli/Collect/Lib/Action/IndexAction.class.php",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/黄历数据库备份20150618.sql",
+		"/E/test.c",
+		"/E/★工作文件夹/test.c",
+		"/E/www_git/6yao/APP/Lib/Action/Home/BaziAction.class.php",
+		"/E/www_git/6yao/UI/Home/default/Bazi_xipan.html",
+		"/E/www_git/6yao/UI/Home/default/Bazi_paipan.html",
+		"/E/www_git/6yao/Conf/config.php",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/滴天髓.任铁樵评注.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+		"/E/www_git/6yao/UI/Admin/default/Mingpu_index.html",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/新建文本文档 (2).txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/新建文件夹/新建文本文档.txt",
+		"/E/www_git/6yao/UI/Home/default/css/mycss.css",
+		"/E/www_git/6yao/Core/Extend/Library/ORG/Util/Page.class.php",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/《易经研究系列著作集》（八字预测类）典藏版V1.0/index.htm",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/《易经研究系列著作集》（八字预测类）典藏版V1.0/八字疾病汇编/index.htm",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/新建文件夹/mydoc000.htm",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/《易经研究系列著作集》（八字预测类）典藏版V1.0/八字疾病汇编/mydoc000.htm",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/aa.html",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Local/Temp/Rar$DIa0.294/破解说明.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/《易经研究系列著作集》（八字预测类）典藏版V1.0/八字入门/index.htm",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/《易经研究系列著作集》（八字预测类）典藏版V1.0/cover.htm",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Local/Temp/Rar$DIa0.238/下载安装说明.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/aa",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+		"/E/www_git/6yao/UI/Admin/default/Mingpu_add.html",
+		"/E/www_git/6yao/UI/Home/default/Mingpu_index.html",
+		"/E/www_git/6yao/APP/Lib/Action/Home/MingpuAction.class.php",
+		"/E/www_git/6yao/UI/Admin/default/Mingpu_edit.html",
+		"/E/www_git/6yao/APP/Lib/Action/Home/bianliang.php",
+		"/E/www_git/6yao/Runtime/Cache/Home/9d64a510103fa79dbc45efc2091638ed.php",
+		"/E/www_git/6yao/UI/Home/default/Liuyao_index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Local/Temp/Rar$DIa0.923/LICENSE.txt",
+		"/E/www_git/6yao/UI/Home/default/Feedback_index.html",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/HexViewer/hex_viewer.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/a.html",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/注册码.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/丁丁五笔字典.exe",
+		"/D/用户目录/我的图片/绁炴仼濡傜嫳.jpg",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/4681851790659554.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/身份证正面.jpg",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/HexViewer/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/五笔词库.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/请先读我.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/git命令.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/git命令",
+		"/E/www_git/6yao/UI/Home/default/Pub_header.html",
+		"/E/www_git/6yao/Runtime/Logs/15_05_15.log",
+		"/E/www_git/6yao/UI/Admin/default/Page_index.html",
+		"/E/www_git/6yao/UI/Home/default/Bazi_index.html",
+		"/E/www_git/6yao/APP/Lib/Action/Admin/CommonAction.class.php",
+		"/E/www_git/6yao/UI/Home/default/Pub_footer.html",
+		"/E/www_git/6yao/APP/Lib/Action/Admin/MingpuAction.class.php",
+		"/J/互动电子书/互动电子书使用说明.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/微软小冰.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/4681851790659554.jpg",
+		"/E/www_git/6yao/APP/Lib/Action/Admin/TagsAction.class.php",
+		"/E/www_git/6yao/APP/Lib/Model/Admin/TagsModel.class.php",
+		"/E/www_git/6yao/UI/Admin/default/Tags_index.html",
+		"/E/www_git/6yao/UI/Admin/default/Index_menu.html",
+		"/E/www_git/6yao/UI/Admin/default/Yijing_index.html",
+		"/E/www_git/6yao/APP/Lib/Model/Admin/TagsMode.class.php",
+		"/E/www_git/6yao/UI/Admin/default/Qiongtong_index.html",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
+		"/I/新建文件夹/Zend-Guard-Release-Notes-v5-5.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/evernote.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/E/www_git/6yao/APP/Lib/Action/Admin/PublicAction.class.php",
+		"/E/www_git/6yao/APP/Lib/Model/Home/UserModel.class.php",
+		"/E/www_git/6yao/APP/Lib/Action/Home/PublicAction.class.php",
+		"/E/www_git/qiankun/APP/Lib/Model/Admin/CommonModel.class.php",
+		"/E/www_git/qiankun/APP/Lib/Model/Admin/UserModel.class.php",
+		"/E/www_git/qiankun/APP/Lib/Model/Seller/UserModel.class.php",
+		"/E/www_git/qiankun/APP/Lib/Model/User/UserModel.class.php",
+		"/E/www_git/qiankun/APP/Common/common.php",
+		"/E/www_git/6yao/APP/Common/common.php",
+		"/E/www_git/6yao/UI/Home/default/User_top.html",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/E/www_git/6yao/Core/Extend/Driver/TagLib/TagLibHtml.class.php",
+		"/D/Program Files (x86)/SnagIt10/SnagIt10注册码.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Local/Temp/Rar$DIa0.739/西西软件园.txt",
+		"/C/Users/Administrator.USER-20140806ZJ/AppData/Local/Temp/Rar$DIa0.303/注册码.txt",
+		"/E/www_git/6yao/UI/Admin/default/Index_top.html",
+		"/E/www_git/6yao/UI/Home/default/User_liuyaoRecord.html",
+		"/E/www_git/6yao/APP/Lib/Action/Admin/IndexAction.class.php",
+		"/E/www_git/6yao/APP/Lib/Action/Home/UserAction.class.php",
+		"/E/www_git/6yao/UI/Home/default/css/signin.css",
+		"/E/www_git/6yao/UI/Home/default/Public_login.html",
+		"/E/www_git/6yao/UI/Home/default/Public_reg.html",
+		"/E/www_git/6yao/APP/Lib/Action/BaseAction.class.php",
+		"/E/www_git/qiankun/APP/Lib/Action/Admin/GoodsCategoryAction.class.php",
+		"/E/www_git/6yao/APP/Lib/Action/Home/CommonAction.class.php",
+		"/E/www_git/test/fangcaiji.php",
+		"/E/www_git/test/c.html",
+		"/E/www_git/6yao/APP/Lib/Model/Admin/MingpuModel.class.php",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/Page.class.php",
+		"/E/www_git/6yao/Core/Extend/Library/ORG/Util/Page.class.php.bak",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/新建文本文档.txt",
+		"/E/www_git/6yao/UI/Home/default/Pub_style.html",
+		"/D/Portable/wget/www.11yishu.com/Article/2430.html",
+		"/E/www_git/6yao/UI/Home/default/Index_p.html",
+		"/E/www_git/6yao/UI/Home/default/Zhouyi_index.html",
+		"/E/www_git/6yao/APP/Common/Common.php",
+		"/E/www_git/6yao/APP/Lib/Action/Home/LiuyaoAction.class.php",
+		"/E/www_git/6yao/UI/Home/default/Liuyao_paipan.html",
+		"/C/Users/Administrator.USER-20140806ZJ/Desktop/downcode.com/DedeCmsV55-UTF8-Final/uploads/dede/search_keywords_main.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project>",
+			"E:\\www_git\\6yao\\",
+			"E:\\www_git\\6yao\\Core\\Extend"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Y",
+			"dizhizhuyi.",
+			"dizhizhuyi[]",
+			"sanxing",
+			"逼水",
+			"柘",
+			" ",
+			"戊辰 己酉 乙亥",
+			"仁至",
+			"仁",
+			"辛酉 庚子 丙寅",
+			"&nbsp;",
+			"tianganzhuyi",
+			"庚申 庚辰 戊辰 戊午",
+			"</script>",
+			"Page-Enter",
+			"center",
+			"/head",
+			"四月",
+			"三月",
+			"二月",
+			"正月",
+			"三秋甲木",
+			"论",
+			"论庚",
+			"论",
+			"冬月",
+			"秋月",
+			"夏月",
+			"春月",
+			"三冬",
+			"三秋",
+			"三春",
+			"三夏",
+			"总论",
+			">\n",
+			"总论",
+			"</p>",
+			"\n			",
+			"\n				",
+			"</td>\n		</tr>",
+			"<tr class=\"result\" id=\".*\">\\n.*\\n.*<td class=\"ctext\">",
+			"<tr class=\"result\" id=\".*\">\\n\\n.*<td class=\"ctext\">",
+			"</td>\n				</tr>",
+			"<tr class=\"result\" id=\".*\">\\n\\n.*<td class=\"ctext\">",
+			"<tr class=\"result\" id=\".*\">\\n<td>",
+			"<tr class=\"result\" id=\".*\">\\n<td>\n",
+			"<tr class=\"result\" id=\".*\">\n",
+			">\n",
+			"<td class=\"ctext\" style=\"width: 60px;\".*>(.|\\n)*?</td>",
+			"guanxi_12gong",
+			"\n",
+			"於",
+			"year_ganzhi",
+			"byganzhi",
+			"&gt;",
+			"&lt;",
+			"v2",
+			"geju",
+			"fenxi_dizhi_a",
+			"\n        ",
+			"sanhe",
+			"fenxi_dizhi",
+			"fenxi_sanhe",
+			"fenxi_dizhi",
+			"canggan",
+			"shishen",
+			"</div>",
+			"<div class=\"col-md-2\">",
+			"php",
+			"pwdHash",
+			"ctrl+shift+c",
+			"ctrl+shift++c",
+			"ctrl+shift+c",
+			"td",
+			">\n",
+			"td",
+			">\n",
+			"\n",
+			">\n",
+			"</",
+			"编号",
+			"ctrl+shift+l",
+			"ctrl+d",
+			"click",
+			"double",
+			"编号",
+			"5",
+			"2",
+			"Project Name",
+			"”",
+			"“",
+			"class",
+			"dizhizhuyi",
+			"dizhizhuyi[]",
+			"dizhizhuyi",
+			"dizhizhuyi.",
+			"dizhizhuyi']",
+			"dizhizhuyi'].",
+			"dizhizhuyi",
+			"tianganzhuyi",
+			"left",
+			"year_ganzhi",
+			"prev",
+			"upPage",
+			"config",
+			"条记录",
+			"header",
+			"<a",
+			"header",
+			"page",
+			"uploads",
+			"upload",
+			"col-xs",
+			"table",
+			"col-xs",
+			"responsive",
+			"col-xs",
+			"fenxi_sanhe",
+			"tianganzhuyi",
+			"keywords",
+			"col-xs",
+			"甲",
+			"shishen_jianhua",
+			"rigan_shengwangmujue",
+			"fenxi_tiangan",
+			"fenxi_dizhi",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dizhizhuyi[]",
+			"",
+			"</p>\n",
+			"",
+			"</p>",
+			"<p>",
+			"",
+			"于",
+			"",
+			"'",
+			"col-md",
+			"",
+			"\\n",
+			"','",
+			"$bazi['gan']['day']",
+			"$bazi['gan']['month']",
+			"$bazi['gan']['year']",
+			"$this->bazi['gan']['year']",
+			"$this->bazi['gan']['month']",
+			"$this->bazi['gan']['day']",
+			"$this->bazi['gan']['hour']",
+			"$this->bazi['zhi']['hour']",
+			"$this->bazi['zhi']['day']",
+			"$this->bazi['zhi']['month']",
+			"$this->bazi['zhi']['year']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "hicoder.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\www_git\\6yao\\6yao.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
